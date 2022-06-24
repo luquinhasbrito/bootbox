@@ -292,7 +292,7 @@
     footer:
     '<div class="modal-footer"></div>',
     closeButton:
-    '<button type="button" class="bootbox-close-button close" aria-hidden="true">&times;</button>',
+    '<button type="button" class="bootbox-close-button btn-close" aria-hidden="true">&times;</button>',
     form:
     '<form class="bootbox-form"></form>',
     button:
@@ -448,7 +448,7 @@
     if ($.fn.modal === undefined) {
       throw new Error(
         '"$.fn.modal" is not defined; please double check you have included ' +
-        'the Bootstrap JavaScript library. See https://getbootstrap.com/docs/4.4/getting-started/javascript/ ' +
+        'the Bootstrap JavaScript library. See https://getbootstrap.com/docs/5.0/getting-started/javascript/ ' +
         'for more details.'
       );
     }

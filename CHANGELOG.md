@@ -1,4 +1,8 @@
-## 5.5.2 (Latest Release)
+## 6.0.0 (Latest Release)
+- Updates Bootbox to be compatible with both Bootstrap 5.
+
+- Adds Vietnamese locale
+## 5.5.2
 
 - Adds Vietnamese locale
 

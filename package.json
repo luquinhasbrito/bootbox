@@ -1,12 +1,13 @@
 {
   "name": "bootbox",
-  "version": "5.5.3",
+  "version": "6.0.0",
   "description": "Wrappers for JavaScript alert(), confirm(), prompt(), and other flexible dialogs using the Bootstrap framework",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "karma start"
+    "test": "karma start",
+    "production": "grunt"
   },
   "repository": {
     "type": "git",
@@ -51,7 +52,7 @@
     "webpack": "^4.41.2"
   },
   "peerDependencies": {
-    "bootstrap": "^3.1.0 || ^4.4.0",
+    "bootstrap": "^3.1.0 || ^5.2.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.0"
   }
