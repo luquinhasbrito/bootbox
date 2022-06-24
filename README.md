@@ -24,6 +24,8 @@ pull requests **please** ensure your tests pass as failing requests will be reje
 
 ## A note on Bootstrap dependencies
 
+Bootbox **6.0.0** is the first release to support Bootstrap 5.0.0.
+
 Bootbox **5.0.0** is the first release to support Bootstrap 4.0.0.
 
 Bootbox **4.0.0** is the first release to support Bootstrap 3.0.0.
@@ -32,7 +34,9 @@ Bootbox **3.3.0** is the *last* release to support Bootstrap 2.2.x.
 
 Much more dependency information can be found [on the Bootbox website](http://bootboxjs.com/getting-started.html#bootbox-dependencies).
 
-## 5.5.3 (Latest Release)
+## 6.0.0 (Latest Release)
+- Updates Bootbox to be compatible with both Bootstrap 5
+## 5.5.3
 
 - Adds `relatedTarget` option. Allows the caller to determine which element, if any, triggered the modal
 - Various bugfixes and package updates
