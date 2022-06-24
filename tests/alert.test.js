@@ -53,10 +53,6 @@ describe('bootbox.alert', function() {
           expect(this.find('.modal-footer button:first').hasClass('bootbox-accept')).to.be.true;
         });
 
-        it('shows a close button inside the body', function() {
-          expect(this.text('.modal-body button')).to.equal('×');
-        });
-
         it('applies the close class to the close button', function() {
           expect(this.find('.modal-body button').hasClass('btn-close')).to.be.true;
         });

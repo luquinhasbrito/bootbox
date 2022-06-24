@@ -1,6 +1,6 @@
 /*! @preserve
  * bootbox.js
- * version: 5.5.2
+ * version: 6.0.1
  * author: Nick Payne <nick@kurai.co.uk>
  * license: MIT
  * http://bootboxjs.com/
@@ -292,7 +292,7 @@
     footer:
     '<div class="modal-footer"></div>',
     closeButton:
-    '<button type="button" class="bootbox-close-button btn-close" aria-hidden="true">&times;</button>',
+    '<button type="button" class="bootbox-close-button btn-close btn-sm float-end" aria-hidden="true"></button>',
     form:
     '<form class="bootbox-form"></form>',
     button:

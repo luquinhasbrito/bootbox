@@ -1,6 +1,8 @@
-## 6.0.0 (Latest Release)
+## 6.0.1 (Latest Release)
+- Updating the btn-close button to the right and resizing the size.
+## 6.0.0
 - Updates Bootbox to be compatible with both Bootstrap 5.
-
+## 5.5.3
 - Adds Vietnamese locale
 ## 5.5.2
 
